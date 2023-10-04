@@ -21,3 +21,12 @@ You can install the required packages using `pip`:
 
 ```bash
 pip install PyQt5 requests
+
+
+Enter the city name in the "Enter city" field and click the "Fetch Forecast" button to view the 5-day weather forecast.
+
+##Customization
+You can further customize the application by modifying the code. For example, you can change the color scheme, fonts, or styles to match your preferences.
+
+##Author
+Abdullah Wajid
